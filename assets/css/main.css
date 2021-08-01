@@ -1993,6 +1993,8 @@ input, select, textarea {
 
 			.item header h3 {
 				font-size: 1em;
+				color: black;
+				font-weight: bolder;
 			}
 
 /* Icons */
