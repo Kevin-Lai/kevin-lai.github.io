@@ -1833,6 +1833,19 @@ input, select, textarea {
 			border: 0;
 		}
 
+/* Skills */
+	
+	.skill-list {
+		display: flex;
+		justify-content: space-around;
+		list-style: none;
+		color: black;
+	}
+	
+	#javascript, #react, #redux, #ruby, #rails, #python {
+		font-size: 5em;
+	}
+	
 /* Form */
 
 	form label {
