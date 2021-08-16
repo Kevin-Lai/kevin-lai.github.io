@@ -1842,7 +1842,7 @@ input, select, textarea {
 		color: black;
 	}
 	
-	#javascript, #react, #redux, #ruby, #rails, #python {
+	#javascript, #react, #redux, #ruby, #rails, #python, #cpp, #java, #git {
 		font-size: 5em;
 	}
 	
